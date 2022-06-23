@@ -1,3 +1,12 @@
+---
+layout: post
+title: "In the beginning..."
+description: "...all I did was complain"
+date: 2022-06-23
+tags: Milestones
+---
+
+
 # Finally, a blog
 CW: *I will say swear words*
 <br>I know that nobody asked for this, but it's here anyway - I guess we'll all have to deal with whatever repercussions
