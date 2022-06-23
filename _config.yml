@@ -35,7 +35,10 @@ titles_from_headings:
   collections: true
   
   
-  comments_repo: chartlotte-2222/charlotte-2222.github.io
+home_post_limit: 5
+  
+  
+comments_repo: chartlotte-2222/charlotte-2222.github.io
 
  
 defaults:
