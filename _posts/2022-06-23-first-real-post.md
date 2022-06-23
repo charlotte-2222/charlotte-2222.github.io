@@ -63,5 +63,8 @@ I know I mostly complained in this first article here, but hey - I just told my 
 
 If you made it this far, thank you :)
 
+***Edit:***
+it's worth mentioning that I would not have made this if not for having come across the user <a href="https://github.com/chadbaldwin">Chad Baldwin</a> and his blog template. I was aware of GitHub pages of course, and have used it extensively - but I didn't quite realize to what extent it could be used until now.
+
 
 
