@@ -37,7 +37,7 @@ titles_from_headings:
   
   comments_repo: chartlotte-2222/charlotte-2222.github.io
 
-
+ 
 defaults:
   - scope:
       path: ""
