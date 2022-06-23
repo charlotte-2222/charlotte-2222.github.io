@@ -33,6 +33,10 @@ plugins:
 titles_from_headings:
   strip_title: true
   collections: true
+  
+  
+  comments_repo: chartlotte-2222/charlotte-2222.github.io
+
 
 defaults:
   - scope:
