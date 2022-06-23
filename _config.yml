@@ -20,7 +20,7 @@ linkedin_username: "charlotte-childers"
 #########################################################################################
 theme: "minima"
 
-rss: rss
+#rss: rss
 
 show_excerpts: false
 
