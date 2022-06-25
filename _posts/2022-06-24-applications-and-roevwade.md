@@ -3,7 +3,7 @@ layout: post
 title: "Applications, applications, applications!"
 description: "23 and me"
 date: 2022-06-24
-tags: Life Stuff
+tags: Life
 ---
 
 # Welp, today I finally signed a lease
