@@ -12,7 +12,9 @@ an old-fashioned webhook.
 
 
 ## Introducing the Webhook
-![[Pasted image 20220627103409.png]]
+<p>
+	<img src="img/rss-webook-22/char_blog_disc.png" alt="discord webhook">
+</p>
 
 ### I'm hoping this little guy will post straight to the discord channel
 If it does - my work is complete. If not, I'm back to it. This is a painful
