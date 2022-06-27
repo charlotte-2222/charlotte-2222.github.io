@@ -12,7 +12,7 @@ an old-fashioned webhook.
 
 
 ## Introducing the Webhook
-![[../img/rss-webhook-22/char_blog_disc.png]]
+![discord blog webhook](/img/rss-webhook-22/char_blog_disc.png)
 
 ### I'm hoping this little guy will post straight to the discord channel
 If it does - my work is complete. If not, I'm back to it. This is a painful

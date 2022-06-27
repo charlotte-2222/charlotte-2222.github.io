@@ -2,5 +2,6 @@
   "legacyEditor": false,
   "livePreview": true,
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "img"
+  "attachmentFolderPath": "img",
+  "useMarkdownLinks": true
 }
