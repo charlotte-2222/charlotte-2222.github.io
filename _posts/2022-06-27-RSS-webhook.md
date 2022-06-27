@@ -21,3 +21,14 @@ python than I'd wanted to before, however I'm not sure what is available to me
 in either Discord libraries as per their latest updates.
 
 Nonetheless, we move on.
+
+---
+
+**FIXED** 6-27-22 @1:57est
+
+As described in <a href="https://charlotte-2222.github.io/2022/06/27/obsidian.md.html
+Char’s Blog">this post</a>, I began working with Pipedream.
+Now it works!
+
+![image of pipedream webhook](/img/06-27-22-obsidian/pipedream.png)
+

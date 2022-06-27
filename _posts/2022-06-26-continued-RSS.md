@@ -17,7 +17,8 @@ While the bot is able to run, I'm not experienced with Discord.js' library and h
 
 ## Next order of business:
 - [X] Read through feed parser docs (again)
-- [ ] Fix RSS post dumping HTML (it's ugly)
+- [X] Fix RSS post dumping HTML (it's ugly)
 - [ ] Make it loop/stay alive (check for feed every so often)
 
 Thats all for now, I will update this post when there is more progress
+
