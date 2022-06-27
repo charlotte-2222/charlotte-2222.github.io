@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2022-06-26-being-me.md",
+            "file": "_posts/2022-06-27-obsidian.md.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 202
   },
   "right": {
     "id": "630035ea922138f6",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-06-26-being-me.md",
+                "file": "_posts/2022-06-27-obsidian.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,9 @@
   },
   "active": "9d825f266cc1ec52",
   "lastOpenFiles": [
-    "_posts/2022-06-26-being-me.md",
+    "_posts/2022-06-27-obsidian.md.md",
     "_posts/2022-06-27-RSS-webhook.md",
+    "_posts/2022-06-26-being-me.md",
     "charlotte-2222.github.io&file=img%2Frss-webhook-22%2Fchar_blog_disc.png.md",
     "img/rss-webhook-22/char_blog_disc.png",
     "_posts/2022-06-26-continued-RSS.md",

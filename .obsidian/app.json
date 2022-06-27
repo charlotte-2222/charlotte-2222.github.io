@@ -3,5 +3,6 @@
   "livePreview": true,
   "newLinkFormat": "relative",
   "attachmentFolderPath": "img",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true
 }
