@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2022-06-27-obsidian.md.md",
+            "file": "_posts/2022-06-27-obsidian.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-06-27-obsidian.md.md",
+                "file": "_posts/2022-06-27-obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,11 +89,11 @@
   },
   "active": "9d825f266cc1ec52",
   "lastOpenFiles": [
-    "_posts/2022-06-27-obsidian.md.md",
+    "_posts/2022-06-27-obsidian.md",
+    "_posts/2022-06-26-continued-RSS.md",
     "_posts/2022-06-27-RSS-webhook.md",
     "_posts/2022-06-25-JS-rss-Bot.md",
     "_posts/2022-06-26-being-me.md",
-    "_posts/2022-06-26-continued-RSS.md",
     "img/06-27-22-obsidian/pipedream.png",
     "img/06-27-22-obsidian/Pastedimage2020220627122356.png.md",
     "img/06-27-22-obsidian/git.png",
