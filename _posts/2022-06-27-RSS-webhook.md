@@ -7,8 +7,7 @@ tags: Webhooks
 ---
 
 ah boi. I've of course been attempting to run this through a Node.js bot and a Python bot 
-with varying degrees of success, however I think the easiest way to achieve my goal is to make
-an old-fashioned webhook.
+with varying degrees of success, however I think the easiest way to achieve my goal is to make an old-fashioned webhook.
 
 
 ## Introducing the Webhook
