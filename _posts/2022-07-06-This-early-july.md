@@ -15,6 +15,7 @@ But yet I still have these days. Will it ever get better? I don't need thoughts 
 
 ![more to life, right?](/img/07-06-22-early-july/dm_simply_existing.jpg)
 *Artist: Death & Milk*
+
 <a href="https://twitter.com/deathandmilk_">@deathandmilk_</a>
 <hr>
 
@@ -95,7 +96,8 @@ To end this sorrow filled post, I wanted to share my Spotify playlist from this 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7qVl7MAZR2nyYVYjdpXYEG?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 *Headache - Rigby*
->So don't say that I'm not like the others
+>So don't say that I'm not like the others,
+>
   'Cause I know that I'm so much worse
 
 
