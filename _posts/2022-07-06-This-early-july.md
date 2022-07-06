@@ -13,7 +13,7 @@ I no longer can afford my unhealthy methods of coping - the blades were either b
 But yet I still have these days. Will it ever get better? I don't need thoughts and prayers, or empty promises. I need some kind of assurances. I wish I could rip my heart out and my conscious along with it. I'm falling apart.
 
 
-![[/img/07-06-22-early-july/dm_simply_existing.jpg|{width=50%}]]
+![more to life, right?](/img/07-06-22-early-july/dm_simply_existing.jpg)
 *Artist: Death & Milk*
 <a href="https://twitter.com/deathandmilk_">@deathandmilk_</a>
 <hr>
