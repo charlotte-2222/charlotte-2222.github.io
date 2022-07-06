@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2022-06-27-obsidian.md",
-            "mode": "source",
+            "file": "_posts/2022-07-06-This-early-july.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-06-27-obsidian.md",
+                "file": "_posts/2022-07-06-This-early-july.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "9d825f266cc1ec52",
   "lastOpenFiles": [
-    "_posts/2022-06-27-obsidian.md",
-    "_posts/2022-06-25-JS-rss-Bot.md",
-    "_posts/2022-06-24-applications-and-roevwade.md",
-    "_posts/2022-06-26-being-me.md",
-    "_posts/2022-06-23-first-real-post.md",
-    "_posts/2022-06-27-obsidian.md.md",
+    "_posts/2022-07-06-This-early-july.md",
+    "img/07-06-22-early-july/kotlin_grade.png",
+    "img/07-06-22-early-july/dm_simply_existing.jpg",
+    "img/07-06-22-early-july/dm_simply_existing.jpg].md",
+    "t/img/07-06-22-early-july/dm_simply_existing.jpg](/img/07-06-22-early-july/dm_simply_existing.jpg ).md",
+    "img/07-06-22-early-july/dm_simply_existing.md",
     "_posts/2022-06-27-RSS-webhook.md",
-    "_posts/2022-06-26-continued-RSS.md",
-    "img/06-27-22-obsidian/pipedream.png",
-    "img/06-27-22-obsidian/Pastedimage2020220627122356.png.md"
+    "_posts/2022-06-26-being-me.md",
+    "_posts/2022-06-27-obsidian.md",
+    "_posts/2022-06-25-JS-rss-Bot.md"
   ]
 }
