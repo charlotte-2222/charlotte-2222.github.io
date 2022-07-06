@@ -6,7 +6,7 @@ date: 2022-07-06
 tags: Life
 ---
 
-It's been a few days since I've last wrote and posted anything. I wish that I could say I was busy, but that would simply be a lie. If were to explain how I've felt lately I might liken it to a masquerade, melancholia, sorrow, tired; simply empty.
+It's been a few days since I've last wrote and posted anything. I wish that I could say I was busy, but that would simply be a lie. If I were to explain how I've felt lately I might liken it to a masquerade, melancholia, sorrow, tired; simply empty.
 
 I no longer can afford my unhealthy methods of coping - the blades were either broken long ago or lost. Cigarettes cost more than they ever have. I have no alcohol. Video games, friends, and my partner don't even offer an escape. I know I'm in a better place now than I was in July 2019. I can still taste the cold barrel, and the powder residue that coated it. I still remember the shouting, the kicking, and most of all the crying late at night.
 
