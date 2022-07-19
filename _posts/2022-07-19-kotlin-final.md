@@ -67,9 +67,14 @@ Kotlin is pretty fun, so I hope to expand on it a little further in the future.
 
 Moving forward a bit - I mentioned I finished my project today. I had trouble figuring out what to do for this project, and for the longest time was working on a weather app - however <a href="https://openweathermap.org/">the weather api </a> I tend to use was giving me grief. I nixed that app after trying to use a new type of geolocation, and that failing as well. 
 
-So - good old fashioned Tic-Tac-Toe.
+So - good old fashioned Tic-Tac-Toe. 
 
-![image of phone and tictactoe board](/img/22-7-19-kt-proj/tictactoe.png)
+![image of phone and tictactoe board](../img/22-7-19-kt-proj/fixd_game_ui.png)
+
+*(I also added the Player (whatever) Wins toast last minute, after having submitted it already)*
+```kt
+Toast.makeText(this, "Player ${gameManager.currentPlayerMark} wins!", Toast.LENGTH_LONG).show()
+```
 
 It's relatively simple, game logic wise. 
 Example:
