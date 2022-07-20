@@ -155,11 +155,17 @@ Thankfully, I had a perfect score prior to that hiccup, and the issue has been f
 ## The Repository
 if you wanna take a look at the repo, click here.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=charlotte-2222&repo=Kotlin-Tic-Tac-Toe&theme=omni)](https://github.com/charlotte-2222/charlotte-2222.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=charlotte-2222&repo=Kotlin-Tic-Tac-Toe&theme=omni)](https://github.com/charlotte-2222/Kotlin-Tic-Tac-Toe)
 
 The code is pretty much all there, but this is a pretty detailed explanation as well.
 
-Thanks for reading this, if you did! I'm gonna vibe before my last test of the Summer - and hope I can get someone in my DM's saying:
+Thanks for reading this, if you did! ~~I'm gonna vibe before my last test of the Summer~~...
+**Update now that I finished it!** It was a fairly easy test. The task was to create a simple dual-activity mortgage calculator, one activity having a fixed rate and the other with options to adjust the year / rate.
+
+**Check it out here:**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=charlotte-2222&repo=Simple-Mortgage&theme=omni)](https://github.com/charlotte-2222/Simple-Mortgage)
+
+and hope I can get someone in my DM's saying:
 > Yo Charlotte I have a remote software engineer job for you, pays like $65k + benefits, and you only have to appear on camera once in-a-blue moon
 
 cause i'd sign my life way.
