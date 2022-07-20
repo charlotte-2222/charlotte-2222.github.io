@@ -2,7 +2,7 @@
 layout: post
 title: "Test Results & Some Other Things"
 description: "...insert some description here, idk..."
-date: 2022-07-19
+date: 2022-07-20
 tags: Life
 ---
 
