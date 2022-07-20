@@ -159,18 +159,20 @@ if you wanna take a look at the repo, click here.
 
 The code is pretty much all there, but this is a pretty detailed explanation as well.
 
-Thanks for reading this, if you did! ~~I'm gonna vibe before my last test of the Summer~~...
-**Update now that I finished it!** It was a fairly easy test. The task was to create a simple dual-activity mortgage calculator, one activity having a fixed rate and the other with options to adjust the year / rate.
+~~I'm gonna vibe before my last test of the Summer~~
+**Update now that I finished it!**
+It was a fairly easy test. The task was to create a simple dual-activity mortgage calculator, one activity having a fixed rate and the other with options to adjust the year / rate.
 
 **Check it out here:**
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=charlotte-2222&repo=Simple-Mortgage&theme=omni)](https://github.com/charlotte-2222/Simple-Mortgage)
 
-and hope I can get someone in my DM's saying:
+Thanks for reading all of this if you did. Hopefully I can get someone in my DM's saying:
 > Yo Charlotte I have a remote software engineer job for you, pays like $65k + benefits, and you only have to appear on camera once in-a-blue moon
 
-cause i'd sign my life way.
+...cause i'd sign my life way.
 
-Sidenote:
+### Sidenote:
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">On July 13, 2022, Earth satellites captured temperatures rising above 40 degrees Celsius (104 degrees Fahrenheit) due to extreme, record-breaking heatwaves across much of Europe, Africa, and Asia: <a href="https://t.co/tD6DmpXMyz">https://t.co/tD6DmpXMyz</a> <a href="https://t.co/cb3P1F699Y">pic.twitter.com/cb3P1F699Y</a></p>&mdash; NASA (@NASA) <a href="https://twitter.com/NASA/status/1549099315817095168?ref_src=twsrc%5Etfw">July 18, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
