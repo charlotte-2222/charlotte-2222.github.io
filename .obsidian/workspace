@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9d825f266cc1ec52",
+        "id": "94be6d7d6bcbf34b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2022-07-24-challenger.md",
+            "file": "_posts/2022-07-28-moving-things.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-07-24-challenger.md",
+                "file": "_posts/2022-07-28-moving-things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9d825f266cc1ec52",
+  "active": "94be6d7d6bcbf34b",
   "lastOpenFiles": [
-    "index.md",
+    "img/FYwEL6xVsAELkzy.jpg",
+    "img/FYwELyGUEAEO-4S.jpg",
+    "img/FYwEMHFUUAA87wE.jpg",
+    "img/FYwEMQBUUAEOSjs.jpg",
+    "_posts/2022-07-28-moving-things.md",
+    "img/22-7-28-somethin/teehee.jpg",
     "_posts/2022-07-24-challenger.md",
+    "index.md",
     "img/22-07-25-challenger/ubuntu.png",
-    "img/22-7-20-kt-test-stuff/22-7-25-challenger.md",
-    "_posts/2022-07-20-kt-test-and-stuff.md",
-    "_posts/2022-07-19-kotlin-final.md",
-    "_posts/2022-07-18-poly-and-tutors.md",
-    "img/22-7-18-poly/fuckyoufuckyoufuckyou.png",
-    "_posts/2022-07-08-what-to-do.md",
-    "img/22-7-8-wat/lmtd.png"
+    "img/22-7-20-kt-test-stuff/22-7-25-challenger.md"
   ]
 }
