@@ -38,7 +38,7 @@ titles_from_headings:
   
    
 defaults:
-- scope:
+  - scope:
       path: ""
     values:
       image: "https://raw.githubusercontent.com/charlotte-2222/random-images/main/charlotte%20comission%5B1062%5D.png" # Apply default site image
