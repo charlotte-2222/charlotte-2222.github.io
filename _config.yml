@@ -22,7 +22,7 @@ theme: "minima"
 
 rss: rss
 
-limit_posts: 5
+home_post_limit: 5
 
 kramdown:
   syntax_highlighter_opts:
