@@ -158,8 +158,7 @@ I don't consider it a true compiler, nonetheless.
 
 <hr>
 
-I won't go over the general syntax and everything that I've already covered in the current documentation on GitHub, however if you'd like to play around a bit in the shell:
-https://replit.com/@charlotte-2222/charr-lang?v=1
+I won't go over the general syntax and everything that I've already covered in the current documentation on GitHub, however if you'd like to play around a bit in the <a href="https://replit.com/@charlotte-2222/charr-lang?v=1">shell</a>
 
 
 # Final Note
