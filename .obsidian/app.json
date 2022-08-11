@@ -6,5 +6,6 @@
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
   "spellcheck": true,
-  "autoConvertHtml": false
+  "autoConvertHtml": false,
+  "showFrontmatter": true
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2022-08-04-charr-lang.md",
+            "file": "_posts/2022-08-11-trump-raid.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-08-04-charr-lang.md",
+                "file": "_posts/2022-08-11-trump-raid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +90,7 @@
   "active": "94be6d7d6bcbf34b",
   "lastOpenFiles": [
     "_posts/2022-07-28-moving-things.md",
+    "_posts/2022-08-11-trump-raid.md",
     "_posts/2022-08-04-charr-lang.md",
     "index.md",
     "_posts/2022-07-24-challenger.md",
@@ -97,7 +98,6 @@
     "img/FYwELyGUEAEO-4S.jpg",
     "img/FYwEMHFUUAA87wE.jpg",
     "img/FYwEMQBUUAEOSjs.jpg",
-    "img/22-7-28-somethin/teehee.jpg",
-    "img/22-07-25-challenger/ubuntu.png"
+    "img/22-7-28-somethin/teehee.jpg"
   ]
 }
