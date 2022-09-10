@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2022-08-25-interview-updates.md",
+            "file": "_posts/2022-09-10-dough-mayne.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-08-25-interview-updates.md",
+                "file": "_posts/2022-09-10-dough-mayne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "94be6d7d6bcbf34b",
   "lastOpenFiles": [
+    "_posts/2022-08-25-interview-updates.md",
     "_posts/2022-08-18-fielding-emails.md",
     "_posts/2022-08-11-trump-raid.md",
     "_posts/2022-08-04-charr-lang.md",
@@ -97,7 +98,6 @@
     "_posts/2022-07-24-challenger.md",
     "img/FYwEL6xVsAELkzy.jpg",
     "img/FYwELyGUEAEO-4S.jpg",
-    "img/FYwEMHFUUAA87wE.jpg",
-    "img/FYwEMQBUUAEOSjs.jpg"
+    "img/FYwEMHFUUAA87wE.jpg"
   ]
 }
