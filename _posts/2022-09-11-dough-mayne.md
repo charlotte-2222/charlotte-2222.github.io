@@ -3,7 +3,7 @@ layout: post
 title: "Dough Mayne"
 description: "Names of Dough"
 date: 2022-09-11
-tags: Website
+tags: Blog
 ---
 
 Beep boop, heres a song
