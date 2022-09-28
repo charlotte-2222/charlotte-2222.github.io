@@ -155,3 +155,5 @@ Someone cute has requested that I play halo with them
 I've written quite enough today to make up for the past week, gotten some stuff off my chest, and talked about this upcoming storm. I'd say I've earned some halo time :)
 
 but first water. hydrate urself, or I'll hydrate u forcefully 
+<hr>
+#### Just some footnote stuff 
