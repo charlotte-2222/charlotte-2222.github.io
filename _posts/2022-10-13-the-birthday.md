@@ -14,7 +14,7 @@ I'm gonna spending a good amount of time talking about that particular day as we
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7hntkdvG3jWdFKm7pGCCzd?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
-##### And as a new treat, an inspiring image from my website.
+#### And as a new treat, an inspiring image from my website.
 This is built off the <a href="https://inspirobot.me/">InspiroBot</a> API, and I have my own working version via one of my websites <a href="https://www.charlottes-web.gay/the-buttons/">built to be rather gimmicky</a>. Give it a look if you feel inclined, It's pretty fun. This was the first one that popped up as I loaded the page.
 
 <img src="https://generated.inspirobot.me/a/p9eZ2oG7eV.jpg" alt="image of a man under water with inspiring text that reads 'People who hoard time will also support it' - it's not meant to be inspiring, but just silly - it's AI generated.">

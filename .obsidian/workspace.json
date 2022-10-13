@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "3c39b703671f0345",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d67998f772d905b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94be6d7d6bcbf34b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2022-10-13-the-birthday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "973992f0eae41211",
+    "type": "split",
+    "children": [
+      {
+        "id": "969daeeb888dc366",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d263f0530b21fa2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d29b5b14804ea86",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288
+  },
+  "right": {
+    "id": "630035ea922138f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6074612b3ab4fc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e14a5c207e221081",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2022-10-13-the-birthday.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "94be6d7d6bcbf34b",
+  "lastOpenFiles": [
+    "img/22-10-13-birfday/Pasted image 20221013121635.png",
+    "img/22-10-13-birfday/Pasted image 20221013121645.png",
+    "img/22-10-13-birfday/Pasted image 20221013144015.png",
+    "_posts/2022-10-13-the-birthday.md",
+    "img/dysphor_img.jpg",
+    "img/image_from_mom.png",
+    "_posts/2022-09-28-hurricane-and-family.md",
+    "_posts/2022-06-24-applications-and-roevwade.md",
+    "_posts/2022-09-16-epi-aniv.md",
+    "img/22-9-16-epi-aniv/Pasted image 20220916111848.png"
+  ]
+}
