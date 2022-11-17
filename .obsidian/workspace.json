@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1e41532923708a21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2022-11-17-november-update.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-10-17-nightmares.md",
+                "file": "_posts/2022-11-17-november-update.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,20 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "6bbd70e753363aa9",
+  "active": "1e41532923708a21",
   "lastOpenFiles": [
-    "img/22-10-17-nightmare/Pasted image 20221017094203.png",
+    "img/22-11-17-nov-update/tmp.gif",
     "_posts/2022-10-17-nightmares.md",
+    "img/22-10-28-frens/Pasted image 20221028104134.png",
+    "img/22-10-28-frens/Dob1y2sXgAMnCGW.jpg",
+    "_posts/2022-11-17-november-update.md",
+    "img/22-10-17-nightmare/Pasted image 20221017094203.png",
     "_posts/2022-10-13-the-birthday.md",
     "img/22-10-13-birfday/Pasted image 20221013121635.png",
     "img/22-10-13-birfday/Pasted image 20221013121645.png",
-    "img/22-10-13-birfday/Pasted image 20221013144015.png",
-    "img/dysphor_img.jpg",
-    "img/image_from_mom.png",
-    "_posts/2022-09-28-hurricane-and-family.md",
-    "_posts/2022-06-24-applications-and-roevwade.md"
+    "img/22-10-13-birfday/Pasted image 20221013144015.png"
   ]
 }
