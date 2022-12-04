@@ -106,7 +106,6 @@ I'm currently at a point where I don't *actually* feel much about the event. I'm
 
 Even so - I have that line open. Not that I believe they'll use it any time soon, but it's there.
 
-<hr>
 
 ## To Be Thankful
 
