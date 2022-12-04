@@ -9,6 +9,7 @@ tags: Life
 It's been a good minute or so I've had the desire to sit down and write. Actually, this exact post was filled with 1k + words and was nearly ready to push to the blog, but so much has happened since then that I just... didn't; I simply hadn't felt the drive to expand on anything, edit, and at this point - there is more to talk about.
 
 ***TIME TO TYPE***
+
 ![](/img/22-11-17-nov-update/tmp.gif)
 
 
