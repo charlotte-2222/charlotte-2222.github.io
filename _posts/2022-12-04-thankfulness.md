@@ -116,6 +116,9 @@ Mia, Jesus, Kate, Whitney and her partners, Max, and so many others. Oh and Coco
 
 I think that's all I wanted to write. Cocoa is snoring *very* loudly in the corner - *I LITERALLY have my headphones on playing music and I can still hear her.* If you read all of this, I appreciate you. Otherwise, hello void!
 
+<hr>
+**Footnotes:**
+
 [^1]: A lot of this will be abbreviated, and is to the best of my memory. To be perfectly honest - I sat there frozen and couldn't believe most of what I was hearing. I have made alterations and corrections.
 
 [^2]: Science stuff links:
