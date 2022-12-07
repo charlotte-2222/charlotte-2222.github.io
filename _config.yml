@@ -37,6 +37,10 @@ titles_from_headings:
   collections: true
   
   
+collections:
+  rant:
+    output: true
+  
   
 home_post_limit: 5
   
