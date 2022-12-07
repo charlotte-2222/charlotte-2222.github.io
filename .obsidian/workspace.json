@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2de8204cab410e76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2022-12-07-classification-update.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-12-05-boobs-i-choose-you.md",
+                "file": "_posts/2022-12-07-classification-update.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,10 +144,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c5e4fb199e430b4f",
+  "active": "2de8204cab410e76",
   "lastOpenFiles": [
-    "_posts/2022-12-04-thankfulness.md",
     "_posts/2022-12-05-boobs-i-choose-you.md",
+    "_posts/2022-12-04-thankfulness.md",
     "_posts/2022-11-17-november-update.md",
     "_posts/2022-06-23-first-real-post.md",
     "_posts/2022-10-17-nightmares.md",
