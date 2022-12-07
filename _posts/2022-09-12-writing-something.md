@@ -3,7 +3,7 @@ layout: post
 title: "Not sure of anything."
 description: "...especially not sure what I should write"
 date: 2022-09-12
-tags: Life
+tags: Rant
 ---
 
 Here I am this morning, about to write a post. I'm not even sure what I'd like to write. But it's been a while since I've written anything so, I'd like to get some thoughts out if I can.

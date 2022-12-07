@@ -3,7 +3,7 @@ layout: post
 title: "The Birthday"
 description: "Why is life painful"
 date: 2022-10-13
-tags: Life
+tags: Rant
 ---
 
 Many people reading this (If anyone is reading it) will not know that I recently had a birthday. I usually choose not to disclose when it is as I don't like celebrating it. It's not a fun day for me, and it typically is the height of dysphoria for me.

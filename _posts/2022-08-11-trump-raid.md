@@ -3,7 +3,7 @@ layout: post
 title: "An Eventful Week in the World"
 description: "Some politics, trans-issues, and me."
 date: 2022-08-11
-tags: Life
+tags: Rant
 ---
 
 I've taken some time for myself lately, and have been posting less and less. My last post detailed much of the work I've done thus far with Charr lang, which I'll link if you haven't <a href ="https://charlotte-2222.github.io/2022/08/04/charr-lang.html">read it.</a> That particular week that I spent working on the language was long, and I really should have paced myself as I quickly had a mental burn out. It's really hard staying mentally motivated to do these things as job denials roll in.

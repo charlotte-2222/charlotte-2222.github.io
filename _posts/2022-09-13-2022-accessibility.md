@@ -3,7 +3,7 @@ layout: post
 title: "Accessibility in Games"
 description: "Buckle up"
 date: 2022-09-13
-tags: Life
+tags: Rant
 ---
 
 Oh boy, will this trigger some "high-level, end game grind enjoying" pro-gamers.

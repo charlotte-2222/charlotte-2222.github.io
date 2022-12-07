@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7d67998f772d905b",
+        "id": "cf80a1f99ea65ed2",
         "type": "tabs",
         "children": [
           {
-            "id": "6bbd70e753363aa9",
+            "id": "9347ab00b4eaf6c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2022-10-17-nightmares.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e41532923708a21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2022-11-17-november-update.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03329529ef7ac260",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2022-12-04-thankfulness.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5e4fb199e430b4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2022-12-05-boobs-i-choose-you.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2de8204cab410e76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2022-12-07-classification-update.md",
+                "file": "_posts/2022-06-23-first-real-post.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-12-07-classification-update.md",
+                "file": "_posts/2022-06-23-first-real-post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2de8204cab410e76",
+  "active": "9347ab00b4eaf6c6",
   "lastOpenFiles": [
-    "_posts/2022-12-05-boobs-i-choose-you.md",
-    "_posts/2022-12-04-thankfulness.md",
-    "_posts/2022-11-17-november-update.md",
-    "_posts/2022-06-23-first-real-post.md",
-    "_posts/2022-10-17-nightmares.md",
-    "img/22-11-17-nov-update/tmp.gif",
-    "img/22-10-28-frens/Pasted image 20221028104134.png",
-    "img/22-10-28-frens/Dob1y2sXgAMnCGW.jpg",
-    "img/22-10-17-nightmare/Pasted image 20221017094203.png",
-    "_posts/2022-10-13-the-birthday.md"
+    "_posts/2022-06-24-applications-and-roevwade.md",
+    "_posts/2022-06-25-JS-rss-Bot.md",
+    "_posts/2022-06-26-being-me.md",
+    "_posts/2022-06-27-obsidian.md",
+    "_posts/2022-06-27-RSS-webhook.md",
+    "_posts/2022-07-06-This-early-july.md",
+    "_posts/2022-07-07-tea-crumpies.md",
+    "_posts/2022-07-08-what-to-do.md",
+    "_posts/2022-07-18-poly-and-tutors.md",
+    "_posts/2022-07-19-kotlin-final.md"
   ]
 }

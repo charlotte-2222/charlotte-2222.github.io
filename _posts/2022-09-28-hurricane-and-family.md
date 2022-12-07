@@ -3,12 +3,13 @@ layout: post
 title: "Hurricane Shenanigans & Family"
 description: "Why does god give his toughest battles to his sleepiest warriors"
 date: 2022-09-28
-tags: Life
+tags: Rant
 ---
 
 Past ~week & half has been a complete whirlwind of emotions and stuff just hitting me. It's hard to process everything that has happened to be honest. So lets dive in, bite by bite.
 
 ### But first - the song!
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3ffdise3GanFwMZXy5WHnZ?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 

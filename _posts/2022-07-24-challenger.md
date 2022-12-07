@@ -3,7 +3,7 @@ layout: post
 title: "???aChallengerApproaches???"
 description: "????"
 date: 2022-07-25
-tags: Life
+tags: Rant
 ---
 
 I'm gonna fight god. And i'm gonna beat her ass.

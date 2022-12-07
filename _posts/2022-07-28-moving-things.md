@@ -3,7 +3,7 @@ layout: post
 title: "The new new. New?. New."
 description: "Office space moved, stuff like that."
 date: 2022-07-28
-tags: Life
+tags: Rant
 ---
 
 The internet did a die, but now it's alive.
@@ -88,7 +88,7 @@ You know what I like? Living rent free in someone else's head - 24/7.
 
 **What's the trans agenda?** Idk. My agenda is to be slutty and gaslight people.
 
-But as whole - whether it's cis-man's secret attraction, or the christian man's deep rage that cause's him to pop a boner; we're in their heads.
+But as whole - whether it's cis-man's secret attraction, or the christian man's deep rage that cause's him to pop a blood vessel at our very existence; we're in their heads.
 
 
 

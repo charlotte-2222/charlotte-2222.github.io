@@ -3,7 +3,7 @@ layout: post
 title: "Silentium est aureum."
 description: "Updates on my silence"
 date: 2022-08-25
-tags: Life
+tags: Rant
 ---
 
 I've been pretty silent about things lately - my posts have mostly been superficial and short when they were posted, so here I am breaking said silence; with a little bit of philosophy.
@@ -50,6 +50,7 @@ I'm never sure if other people feel the same way that I do, perhaps I may find o
 Although when all people in the social sphere are concerned, its worthwhile to consider the feelings and harmony of the group. 
 
 The situation eventually comes to a head in one way or another, good or bad. 
+
 <hr>
 
 # Interviews
@@ -74,10 +75,6 @@ My hormone therapy has been going great so far. My dosages are increasing pretty
 I never thought I'd be here a year ago, but here I am. Taking life as it comes with some *solid* makeup skills (even my doctor complimented me on it, mentioning that she wished she could do the same)
 
 I'm significantly happier than I was before. I'm starting to feel whole.
-<hr>
-
-### The dead and damned.
-I won't speak on those who try to force their way into my life again, after such a fucked up time. They don't deserve to live in my head rent free, and it's cute that they believe the things they do.
 
 ## *Per aspera ad astra*
 Things have been really hard for me these past few years, and I feel incredibly lucky to get to where I am today; but I do need more out of life - so I'm going to keep crawling and grabbing until I get what I want. 
@@ -96,7 +93,7 @@ I do want to do a quick shoutout to few people. There's a lot of other special p
 - Jesús
 - Mia
 - Alex
-- Roger
+- Niko
 - Joe
 
 

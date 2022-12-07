@@ -3,7 +3,7 @@ layout: post
 title: "Tea, Crumpets, Florida, 777"
 description: "this post really has nothing to do with crumpets, but I am drinking Tea."
 date: 2022-07-07
-tags: Life
+tags: Rant
 ---
 
 Before I *actually* say much - here is the song for the post. You're obligated to listen to it at least once. 
@@ -112,7 +112,7 @@ This guy is mini-trump, but the unfortunate thing is he actually has a brain and
 	- Local police are given almost limitless power to enforce laws
 	- People are often willing to overlook police abuses in the name of patriotism
 	- Often a national police force with virtually unlimited power
-- [ ] Rampant Cronyism and Corruption
+- [x] Rampant Cronyism and Corruption
 	- Friends and Associates appoint each other to Gov't positions
 	- Officials use Governmental power and authority to protect their friends from accountability 
 - [x] Fraudulent Elections
