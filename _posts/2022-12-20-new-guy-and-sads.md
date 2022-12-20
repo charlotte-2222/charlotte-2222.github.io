@@ -52,7 +52,8 @@ I'm putting this in a spoiler thing - so feel free to skip over it if you don't 
 	<br><br>
 	I wish I could feel better, do better, be better. I just cant.
 </details>
-
+<br>
+-
 It's been hard to cope with. I still feel like shit, but don't act on it. I don't know whether I've found a new way to mask it or if I've gotten happier since then. I really don't know what it will take to make me truly happy, but I guess I can keep faking until it's real enough. That worked for a while, I'm sure it'll work again - at least until I get real help.
 
 # I'm not quite sure where to go from here
