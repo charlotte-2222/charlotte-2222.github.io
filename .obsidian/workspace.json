@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d4677c92a03efb45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-02-24-dates-lesgo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-02-18-Social-Media.md",
+                "file": "_posts/2023-02-24-dates-lesgo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,10 +129,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5f748e5c5da422bb",
+  "active": "d4677c92a03efb45",
   "lastOpenFiles": [
-    "_posts/2023-02-11-first-of-the-year.md",
     "_posts/2023-02-18-Social-Media.md",
+    "_posts/2023-02-11-first-of-the-year.md",
     "img/23-02-11-first/Pasted image 20230211113439.png",
     "_posts/2022-12-08-sc-scary.md",
     "_posts/2022-12-20-new-guy-and-sads.md",
