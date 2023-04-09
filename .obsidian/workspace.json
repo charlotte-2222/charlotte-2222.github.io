@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9e559e4c58d4026f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-04-08-curiosity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-04-06-one-am.md",
+                "file": "_posts/2023-04-08-curiosity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,10 +129,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9921b345f331eb50",
+  "active": "9e559e4c58d4026f",
   "lastOpenFiles": [
-    "_posts/2023-04-4-repeat-again.md",
     "_posts/2023-04-06-one-am.md",
+    "_posts/2023-04-08-curiosity.md",
+    "_posts/2023-04-4-repeat-again.md",
     "_posts/2023-02-24-dates-lesgo.md",
     "_posts/2022-12-20-new-guy-and-sads.md",
     "_posts/2023-02-18-Social-Media.md",
