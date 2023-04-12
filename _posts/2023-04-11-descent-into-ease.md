@@ -2,7 +2,7 @@
 layout: post
 title: "Descent into Ease"
 description: ""
-date: 2023-04-011
+date: 2023-04-11
 tags: Rant
 ---
 
