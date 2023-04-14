@@ -5,9 +5,9 @@ description: "Pain. Live. Repeat."
 date: 2023-04-04
 tags: Life
 ---
+### My lovely arsonist.
 
 *(updated 4-13-23)*
-### My lovely arsonist.
 
 I had far more written here on the 4th. Wishful thinking, ranting about past dates, a teenage girl gushing over her new crush. Often times people tend to forget that while I have the body of an adult, my mind sways in emotion - often times I'm nothing more than a hormonal teenager; I am going through puberty version two, after all.
 
