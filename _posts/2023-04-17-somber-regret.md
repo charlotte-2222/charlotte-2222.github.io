@@ -2,7 +2,7 @@
 layout: post
 title: "I Think I Think Too Much"
 description: ""
-date: 2023-04-017
+date: 2023-04-17
 tags: Rant
 ---
 
