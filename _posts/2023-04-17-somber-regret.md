@@ -16,8 +16,10 @@ If you haven't guessed it by now, I'm writing to you, my arsonist. So beautiful 
 
 I do not know what happened to you. I don't know if you willingly left my life. But I know that I cannot get you out of my head, I think of things that I wish I had done differently - things I wish I hadn't said, and things I wish I had. I wish I could've heard your voice more. I wish I had called you that night. 
 
-With my mental breakdown having come and passed, I've been reassured by others that it would not be in your character to disappear as you have. I want to trust, I want to hold out hope. I want to hear your voice again. I suppose I will. There is nothing left but to do so. 
+With my mental breakdown having come and passed, I've been reassured by others that it would not be in your character to disappear as you have. I wanted to trust that advice. To believe that it was true. But I know it's not.
 
-I ask one thing. Understand who you are to me. Swallow my desire. 
-My eager apprehension is everlasting.
+I am now sure that you are gone. I will rest in this fact, and am at peace with it. Strangely I no longer feel a thing. I cried my tears of fire as you denied me, I fell victim to your words, and as I have no more blood left to spill - I am at peace. That part of of me is buried, out of reach.
+
+Embrace atrophy.
+
 
