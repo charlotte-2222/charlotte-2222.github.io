@@ -49,7 +49,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: "https://raw.githubusercontent.com/charlotte-2222/random-images/main/penta_cresc.png" # Apply default site image
+      image: "https://raw.githubusercontent.com/charlotte-2222/random-images/main/penta_cresc.png" #Apply default site image
   - scope:
       path: ""
       type: post
