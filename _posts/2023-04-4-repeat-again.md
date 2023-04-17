@@ -3,7 +3,7 @@ layout: post
 title: "Fuck"
 description: "Pain. Live. Repeat."
 date: 2023-04-04
-tags: Life
+tags: Rant
 ---
 ### My lovely arsonist.
 

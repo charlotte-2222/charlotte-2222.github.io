@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "22ca02aefac7e7c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-04-17-somber-regret.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-04-4-repeat-again.md",
+                "file": "_posts/2023-04-17-somber-regret.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,12 +153,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8d263f0530b21fa2",
+  "active": "22ca02aefac7e7c0",
   "lastOpenFiles": [
-    "_posts/2023-04-11-descent-into-ease.md",
-    "_posts/2023-04-08-curiosity.md",
-    "_posts/2023-04-06-one-am.md",
     "_posts/2023-04-4-repeat-again.md",
+    "_posts/2023-04-06-one-am.md",
+    "_posts/2023-04-08-curiosity.md",
+    "_posts/2023-04-17-somber-regret.md",
+    "_posts/2023-04-11-descent-into-ease.md",
     "_posts/2023-02-24-dates-lesgo.md",
     "_posts/2022-12-20-new-guy-and-sads.md",
     "_posts/2023-02-18-Social-Media.md",
