@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cf80a1f99ea65ed2",
+        "id": "38c530cc142dc434",
         "type": "tabs",
         "children": [
           {
-            "id": "d4677c92a03efb45",
+            "id": "81a7cdc457806b5c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-04-4-repeat-again.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9921b345f331eb50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-04-06-one-am.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e559e4c58d4026f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-04-08-curiosity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38e42a8f0bac2bef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-04-4-repeat-again.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22ca02aefac7e7c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-04-17-somber-regret.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,6 +52,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "dd52dc036f8049ab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -126,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-04-17-somber-regret.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,13 +107,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "22ca02aefac7e7c0",
+  "active": "81a7cdc457806b5c",
   "lastOpenFiles": [
-    "penta_cresc.ico",
     "_posts/2023-04-4-repeat-again.md",
-    "_posts/2023-04-17-somber-regret.md",
     "_posts/2023-04-06-one-am.md",
     "_posts/2023-04-08-curiosity.md",
+    "_posts/2023-04-17-somber-regret.md",
+    "penta_cresc.ico",
     "_posts/2023-04-11-descent-into-ease.md",
     "_posts/2023-02-24-dates-lesgo.md",
     "_posts/2022-12-20-new-guy-and-sads.md",
