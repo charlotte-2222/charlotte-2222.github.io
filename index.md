@@ -5,14 +5,11 @@
 
 </div>
 <br>
-I'm just a girl with a blog, I code, I make things, I do stuff. Sometimes I bite, sometimes I'm bitten! Is what it is ¯\_(ツ)_/¯
+This is my journal, but it's online. I think that's called a blog - maybe.
 
 ### CW:
-All blog posts reflect my personal held opinions and do not reflect that of my employer(s), organizations, etc.
 
-This blog serves as an "online-journal" of sorts, as such my posts are a "flow of thoughts"; This blog does not pretend to be a resume padder, few posts are filtered. I write on my personal life, politics, video games, and various other things that fit my need at the moment. I do attempt to grammar check on occasion.
-
-If you feel you need to look at any of my actual work, do so via my <a href="https://www.charlottes-web.gay/char-site/">portfolio.</a>
+My posts are a "flow of thoughts", This blog does not pretend to be a resume padder, few posts are filtered. I write on my personal life, politics, video games, and various other things that fit my need at the moment. I do attempt to grammar check on occasion.
 
 
 **🎵 Listen to my work groove with me 🎵**
