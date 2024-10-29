@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "94be6d7d6bcbf34b",
+        "id": "e95737d3225e73bd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2022-10-13-the-birthday.md",
+            "file": "_posts/2024-01-23-fights.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-10-13-the-birthday.md",
+                "file": "_posts/2024-01-23-fights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "94be6d7d6bcbf34b",
+  "active": "e95737d3225e73bd",
   "lastOpenFiles": [
-    "img/22-10-13-birfday/Pasted image 20221013121635.png",
-    "img/22-10-13-birfday/Pasted image 20221013121645.png",
-    "img/22-10-13-birfday/Pasted image 20221013144015.png",
-    "_posts/2022-10-13-the-birthday.md",
-    "img/dysphor_img.jpg",
-    "img/image_from_mom.png",
-    "_posts/2022-09-28-hurricane-and-family.md",
-    "_posts/2022-06-24-applications-and-roevwade.md",
-    "_posts/2022-09-16-epi-aniv.md",
-    "img/22-9-16-epi-aniv/Pasted image 20220916111848.png"
+    "_posts/2024-10-29-test.md",
+    "_posts/2023-04-17-somber-regret.md",
+    "_posts/2024-01-22-Back-Again.md",
+    "_posts/2024-01-23-fights.md",
+    "_posts/2022-06-23-first-real-post.md",
+    "_posts/2022-06-26-being-me.md",
+    "_posts/2022-07-19-kotlin-final.md",
+    "_posts/2022-07-26.md",
+    "_posts/2022-07-24-challenger.md",
+    "index.md"
   ]
 }
