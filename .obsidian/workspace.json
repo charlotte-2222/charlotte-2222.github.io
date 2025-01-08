@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_posts/2025-01-08-first-post-of-the-year.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2025-01-08-first-post-of-the-year"
             }
           }
         ],
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "_posts/2025-01-08-first-post-of-the-year.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for 2025-01-08-first-post-of-the-year"
             }
           }
         ]
@@ -137,6 +137,7 @@
   },
   "active": "e59cd045868eee6c",
   "lastOpenFiles": [
+    "index.md",
     "_posts/2025-01-08-first-post-of-the-year.md",
     "_posts/2023-02-18-Social-Media.md",
     "img/25-01-08-first-year-post/triad-image.png",
@@ -160,7 +161,6 @@
     "img/24-01-22-back-bitches/IMG_1564.png",
     "img/24-01-22-back-bitches",
     "_posts/2022-12-08-sc-scary.md",
-    "index.md",
     "penta_cresc.ico",
     "_posts/2022-12-20-new-guy-and-sads.md",
     "_posts/2023-02-11-first-of-the-year.md",

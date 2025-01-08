@@ -29,6 +29,7 @@ All-in-all, I’m very happy. I’m adjusting and fixing my life.
 For my dedicated long-time readers *(Cocoa, my dog. That’s it),* most will remember that I am polyamorous. For those unfamiliar:
 
 > the practice or condition of participating simultaneously in more than one serious romantic or sexual relationship with the knowledge and consent of all partners.
+> 
 > *Source: [Dictionary.com](https://www.dictionary.com/browse/polyamory)*
 
 Polyamory has been my relationship style since early 2022 and while isn’t always easy, it’s very rewarding. A relationship(s) such as mine takes a lot of communication and balancing, more-so than a standard monogamous relationship. 
@@ -60,6 +61,7 @@ Getting back on track to my writing, the project name is currently *Lycoris Radi
 >‘Higan’ has a further meaning than just the holiday to honor ancestors. In the Buddhist Heart Sutra, higan means ‘the other shore’, referring to the mythical Sanzu River. Spirits cross this river to reach enlightenment so it’s often seen as symbolic of crossing over into death. Spider lilies grow along the banks of the Sanzu River and greet the newly departed spirits.
 >
 >In another Buddhist text, the Lotus Sutra, Diyu is the realm of the dead, or hell, and red spider lilies are said to grow there, marking a path to guide spirits to reincarnation. Yet another name for the lilies are ‘hell flowers’.
+>
 >*Source: [Kelly Brenner, Metro Field Guide](https://www.metrofieldguide.com/folklore-nature-the-death-flower/)*
 
 While I’ve not quite settled on a name for the book, *Lycoris Radiata* is certainly in the running and is the temporary project name as I feel it is a name befitting the themes of my writing. Speaking of, a brief synopsis based on what is currently written *(and what is brewing in my head)* is in order:
