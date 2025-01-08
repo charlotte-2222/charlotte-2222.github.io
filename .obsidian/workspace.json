@@ -6,18 +6,17 @@
       {
         "id": "38c530cc142dc434",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "81a7cdc457806b5c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_posts/2022-12-07-classification-update.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "img/25-01-08-first-year-post/triad-image.png"
+              },
+              "icon": "lucide-image",
+              "title": "triad-image"
             }
           },
           {
@@ -26,10 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-01-23-fights.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
@@ -53,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -68,7 +71,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -76,14 +81,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 326.5
   },
   "right": {
     "id": "630035ea922138f6",
@@ -99,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-01-23-fights.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +114,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
             }
           }
         ]
@@ -128,25 +137,29 @@
   },
   "active": "e59cd045868eee6c",
   "lastOpenFiles": [
+    "_posts/2025-01-08-first-post-of-the-year.md",
+    "_posts/2023-02-18-Social-Media.md",
+    "img/25-01-08-first-year-post/triad-image.png",
+    "img/25-01-08-first-year-post",
+    "_posts/2023-02-24-dates-lesgo.md",
+    "_posts/2022-12-07-classification-update.md",
+    "_posts/2023-04-4-repeat-again.md",
+    "_posts/2023-04-06-one-am.md",
+    "_posts/2023-04-08-curiosity.md",
+    "_posts/2023-04-11-descent-into-ease.md",
+    "_posts/2023-04-17-somber-regret.md",
     "_posts/2024-01-22-Back-Again.md",
     "_posts/2024-01-23-fights.md",
-    "_posts/2022-12-07-classification-update.md",
+    "_posts/2024-10-29-test.md",
+    "_posts/2022-06-23-first-real-post.md",
     "_posts/2022-12-05-boobs-i-choose-you.md",
-    "_posts/2023-04-08-curiosity.md",
     "img/24-01-22-back-bitches/IMG_1561.png",
     "img/23-2-18-social-media/Pasted image 20230218075324.png",
-    "_posts/2023-02-18-Social-Media.md",
-    "_posts/2023-02-24-dates-lesgo.md",
-    "_posts/2023-04-4-repeat-again.md",
     "img/24-01-22-back-bitches/IMG_1562.png",
     "img/24-01-22-back-bitches/IMG_1563.png",
     "img/24-01-22-back-bitches/IMG_1564.png",
     "img/24-01-22-back-bitches",
     "_posts/2022-12-08-sc-scary.md",
-    "_posts/2023-04-17-somber-regret.md",
-    "_posts/2023-04-11-descent-into-ease.md",
-    "_posts/2023-04-06-one-am.md",
-    "_posts/2022-06-23-first-real-post.md",
     "index.md",
     "penta_cresc.ico",
     "_posts/2022-12-20-new-guy-and-sads.md",
