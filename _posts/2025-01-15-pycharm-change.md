@@ -40,6 +40,7 @@ One of the primary features is the tagging systems. Imagine for a moment that yo
 
 ### Read the Fucking Manual [#2](#references)
 ![](/img/25-01-15-ide-writing/Pasted%20image%2020250115120639.png)
+
 In keeping with the theme of retrieving information on programming related subjects, say you have a user asking very basic questions – questions that are answered and explained in code documentation. Constantly explaining command syncing to users can be tiresome, especially when they clearly haven’t *read the fucking manual.* So, this feature will search by keyword and respond with the link to the associated location of the manual so the silly user in question can put in the work of reading the info before expanding on their question and issues.
 
 ### Repository Search
@@ -48,6 +49,7 @@ This feature is a little different than the others. While it is certainly true t
 
 ### Latest Commits
 ![](/img/25-01-15-ide-writing/Pasted%20image%2020250115120736.png)
+
 This command will allow the user to view the latest commit to a repository as well as view the details associated and link said commit. Additionally, features that accompany the Git commands are functions that will allow the user to create Git issues on a repo as well as view latest issues and the details therein. 
 
 <hr>
