@@ -8,33 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "81a7cdc457806b5c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "img/25-01-08-first-year-post/triad-image.png"
-              },
-              "icon": "lucide-image",
-              "title": "triad-image"
-            }
-          },
-          {
             "id": "e59cd045868eee6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-01-08-first-post-of-the-year.md",
+                "file": "_posts/2025-01-15-pycharm-change.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-08-first-post-of-the-year"
+              "title": "2025-01-15-pycharm-change"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,36 +124,45 @@
   },
   "active": "e59cd045868eee6c",
   "lastOpenFiles": [
-    "index.md",
-    "_posts/2025-01-08-first-post-of-the-year.md",
-    "_posts/2023-02-18-Social-Media.md",
+    "tags.md",
+    "_posts/2025-01-15-pycharm-change.md",
+    "img/25-01-15-ide-writing/ommie.png",
+    "().md",
+    "Tag.md",
+    "_posts/2022-09-13-2022-accessibility.md",
+    "_posts/2022-09-11-dough-mayne.md",
+    "_posts/2022-08-18-fielding-emails.md",
+    "_posts/2022-08-11-trump-raid.md",
+    "_posts/2022-08-04-charr-lang.md",
+    "_posts/2022-07-28-moving-things.md",
+    "_posts/2022-07-20-kt-test-and-stuff.md",
+    "_posts/2022-07-19-kotlin-final.md",
+    "_posts/2022-07-18-poly-and-tutors.md",
+    "_posts/2022-07-08-what-to-do.md",
+    "_posts/2022-07-06-This-early-july.md",
+    "_posts/2022-06-27-RSS-webhook.md",
+    "_posts/2022-06-24-applications-and-roevwade.md",
+    "_posts/2022-06-25-JS-rss-Bot.md",
+    "_posts/2022-06-27-obsidian.md",
+    "_posts/2022-12-07-classification-update.md",
+    "_posts/2022-11-17-november-update.md",
+    "_posts/2022-09-16-epi-aniv.md",
+    "img/25-01-15-ide-writing/Pasted image 20250115120736.png",
+    "img/25-01-15-ide-writing/Pasted image 20250115120703.png",
+    "img/25-01-15-ide-writing/Pasted image 20250115120639.png",
+    "img/25-01-15-ide-writing/Pasted image 20250115120430.png",
     "img/25-01-08-first-year-post/triad-image.png",
+    "img/25-01-15-ide-writing",
+    "_posts/2025-01-08-first-post-of-the-year.md",
+    "index.md",
+    "_posts/2023-02-18-Social-Media.md",
     "img/25-01-08-first-year-post",
     "_posts/2023-02-24-dates-lesgo.md",
-    "_posts/2022-12-07-classification-update.md",
-    "_posts/2023-04-4-repeat-again.md",
-    "_posts/2023-04-06-one-am.md",
-    "_posts/2023-04-08-curiosity.md",
-    "_posts/2023-04-11-descent-into-ease.md",
-    "_posts/2023-04-17-somber-regret.md",
-    "_posts/2024-01-22-Back-Again.md",
-    "_posts/2024-01-23-fights.md",
-    "_posts/2024-10-29-test.md",
-    "_posts/2022-06-23-first-real-post.md",
-    "_posts/2022-12-05-boobs-i-choose-you.md",
     "img/24-01-22-back-bitches/IMG_1561.png",
     "img/23-2-18-social-media/Pasted image 20230218075324.png",
     "img/24-01-22-back-bitches/IMG_1562.png",
     "img/24-01-22-back-bitches/IMG_1563.png",
-    "img/24-01-22-back-bitches/IMG_1564.png",
     "img/24-01-22-back-bitches",
-    "_posts/2022-12-08-sc-scary.md",
-    "penta_cresc.ico",
-    "_posts/2022-12-20-new-guy-and-sads.md",
-    "_posts/2023-02-11-first-of-the-year.md",
-    "img/23-02-11-first/Pasted image 20230211113439.png",
-    "_posts/2022-07-20-kt-test-and-stuff.md",
-    "img/22-12-8-sc/sc-bill.png",
-    "_posts/2022-07-24-challenger.md"
+    "penta_cresc.ico"
   ]
 }
