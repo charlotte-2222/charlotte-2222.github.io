@@ -20,7 +20,7 @@ For the time being I will write poetry until I feel the confidence to continue w
 
 *My Dear Arsonist*, what dear secrets we shared.
 Intimacy and hatred hand-in-hand, a beautiful tragedy.
-enveloped by hope and things left unsaid.
+Enveloped by hope and things left unsaid.
 
 Mistaken for that which you are not, *My Dear Arsonist*.
 Promises of deliverance, affection and torment.
