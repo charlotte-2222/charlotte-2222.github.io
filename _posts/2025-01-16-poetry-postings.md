@@ -18,20 +18,20 @@ For the time being I will write poetry until I feel the confidence to continue w
 
 *This is a modification of something I wrote two years ago.*
 
-> *My Dear Arsonist*, what dear secrets we shared.
-> Intimacy and hatred hand-in-hand, a beautiful tragedy
-> enveloped by hope and things left unsaid.
+*My Dear Arsonist*, what dear secrets we shared.
+Intimacy and hatred hand-in-hand, a beautiful tragedy.
+enveloped by hope and things left unsaid.
 
-> Mistaken for that which you are not, *My Dear Arsonist*
-> Promises of deliverance, affection and torment.
-> With kerosene and matches you lit the fire in my heart.
-> Left a victim of your inferno.
+Mistaken for that which you are not, *My Dear Arsonist*.
+Promises of deliverance, affection and torment.
+With kerosene and matches you lit the fire in my heart.
+Left a victim of your inferno.
 
-> *My Dear Arsonist,* the flames in this body have extinguished.
-> Desolation – I disgust you
-> Swallow my desire
+*My Dear Arsonist,* the flames in this body have extinguished.
+Desolation – I disgust you.
+Swallow my desire
 
-> Eager apprehension, everlasting.
+Eager apprehension, everlasting.
 
 
 
